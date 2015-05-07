@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="hmtsai12"  fetch="https://github.com/" />
+<default revision="master" remote="hmtsai12" />
+<project path="C-modules/hello-driver" name="hello-driver" />
+</manifest>
