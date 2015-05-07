@@ -2,5 +2,5 @@
 <manifest>
 <remote name="hmtsai12"  fetch="https://github.com" />
 <default revision="master" remote="hmtsai12" />
-<project path="test" name="hmtsai12/C-modules/hello-driver" />
+<project remote="hmtsai12" path="test" name="hmtsai12/C-modules" />
 </manifest>
