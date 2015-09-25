@@ -3,4 +3,5 @@
 <remote name="hmtsai12"  fetch="https://github.com" />
 <default revision="master" remote="hmtsai12" />
 <project remote="hmtsai12" path="test" name="hmtsai12/C-modules" />
+<project remote="hmtsai12" path="test1" name="hmtsai12/dotfile" />
 </manifest>
